@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" width="300" height=""
     src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif">
 
-- 🔭 I’m currently working on **Inventory Management**
+- 🔭 I’m currently working on **AI ML**
 
 - 🌱 I’m currently learning **GenAI**
 
